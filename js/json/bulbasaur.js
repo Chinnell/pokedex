@@ -1,7 +1,9 @@
+
+
 var bulbasaur = {
   abilities: [{
     name: "chlorophyll",
-    resource_uri: "/api/v1/ability/34/"
+    resource_uri: "/api/v1//34/"
   }, {
     name: "overgrow",
     resource_uri: "/api/v1/ability/65/"
